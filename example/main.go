@@ -22,7 +22,7 @@ package main
 import (
 	"log"
 
-	"github.com/joeshaw/envdecode"
+	"github.com/littleairmada/envdecode"
 )
 
 type config struct {
